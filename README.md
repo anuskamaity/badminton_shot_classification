@@ -16,3 +16,7 @@ train_r3d.py
 ```
 python infer.py --model swin3d_t --ckpt swin3d_badminton_final.pth --video path/to/video.mp4
 ```
+
+### Weights
+
+https://drive.google.com/drive/folders/19fpinc5C8T9sVYUDgUS20PXhtztT40Vc?usp=drive_link
