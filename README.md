@@ -21,8 +21,8 @@ python infer.py --model swin3d_t --ckpt swin3d_badminton_final.pth --video path/
 
 https://drive.google.com/drive/folders/19fpinc5C8T9sVYUDgUS20PXhtztT40Vc?usp=drive_link
 
-## Teammates
+## Created By :
 
-Ayan Kashyap
-Anuska Maity
-Pratyusha Mitra
+- Ayan Kashyap
+- Anuska Maity
+- Pratyusha Mitra
